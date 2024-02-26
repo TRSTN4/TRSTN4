@@ -32,7 +32,7 @@
 - **🦅 EagleShell**: [EagleShell is a high-quality tool that aims to improve your pentest](https://github.com/TRSTN4/EagleShell)
 - **🌳 br4nch**: [Data Structure Tree Builder for Python](https://github.com/TRSTN4/br4nch)
 #### 💻 **C/C++:**
-- 📚 **Codam Projects**: [Git repository with 42Network projects I made.](https://github.com/TRSTN4/42CodamProjects)
+- 📚 **Codam Projects**: [Git repository with 42 The Network projects I made.](https://github.com/TRSTN4/42CodamProjects)
 #### 🎮 **Roblox Games:**
 - 🔦🌲 **FARSIGHT [2024]**: [Complete objectives, solve puzzles and survive through the night.](https://www.roblox.com/games/15025258839/STORY-FARSIGHT)
 - ✨🏡 **Dream Plots [2023]**: [Dive into your creative space with a immersive, real-time world!](https://www.roblox.com/games/13827214218/Dream-Plots)
