@@ -36,10 +36,6 @@
 - 🔦🌲 **FARSIGHT [2024]**: [Complete objectives, solve puzzles and survive through the night.](https://www.roblox.com/games/15025258839/STORY-FARSIGHT)
 - ✨🏡 **Dream Plots [2023]**: [Dive into your creative space with a immersive, real-time world!](https://www.roblox.com/games/13827214218/Dream-Plots)
 - 💰🏃 **LOOT RUNNERS [2023]**: [A new variation of competition, a puzzle solving race!](https://www.roblox.com/games/12929417892/LOOT-RUNNERS)
-[comment]: <(#### 📱 **Mobile Apps:**)>
-[comment]: <(- **???**:)>
-[comment]: <(  - **[IOS]**: [SOON]())>
-[comment]: <(  - **[ANDROID]**: [SOON]())>
 <p align="center">
 
 
