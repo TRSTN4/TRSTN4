@@ -18,7 +18,7 @@
 
 
 ## Languages I'm Using <img src="https://media.tenor.com/A-1z4jlGrXgAAAAi/onay2.gif" width="28"/>
-- ⚡ **Python**: Creating scraping tools to automate data collection.
+- ⚡ **Python**: Creating Python libraries and handy tools for everyone to use.
 - 📱 **Swift & Kotlin**: Developing mobile apps for both iOS and Android platforms.
 - 💻 **C/C++**: Working on numerous projects for [Codam Coding College](https://codam.nl), ranging from algorithms to systems programming.
 - 🌐 **Web Development**: Building websites and web applications with modern technologies.
