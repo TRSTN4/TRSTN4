@@ -1,6 +1,6 @@
 
 # Hi, I'm TRSTN4! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&color=%93f56f31&size=25&height=40&lines=Nice+to+meet+you!;I'm+a+Software+Engineer.;Student+@+Codam+College;Student+@+Open+University;)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&color=%93f56f31&size=25&height=40&lines=Nice+to+meet+you!;I'm+a+Software+Engineer.;Student+@+Codam+Coding+College;Student+@+Open+University;)
 ](https://git.io/typing-svg)
 
 [![X/Twitter Badge](https://img.shields.io/badge/-@TRSTN48-010a0e?style=flat-square&logo=X&logoColor=white)](https://twitter.com/TRSTN48)
