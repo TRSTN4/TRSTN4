@@ -6,7 +6,6 @@
 [![X/Twitter Badge](https://img.shields.io/badge/-@TRSTN48-010a0e?style=flat-square&logo=X&logoColor=white)](https://twitter.com/TRSTN48)
 [![Website Badge](https://img.shields.io/badge/TRSTN4.com-074d68?style=flat-square&logo=google-chrome&logoColor=white)](https://www.TRSTN4.com/)
 
-
 ## About Me <img src="https://c.tenor.com/uZFq07-ujK8AAAAi/man-shrugging-joypixels.gif" width="28"/>
 * 🍃 A nature enthusiast, I find peace and inspiration in the great outdoors.
 * 💡 Fascinated by programming and the process of creating and solving with code.
@@ -37,10 +36,10 @@
 - 🔦🌲 **FARSIGHT [2024]**: [Complete objectives, solve puzzles and survive through the night.](https://www.roblox.com/games/15025258839/STORY-FARSIGHT)
 - ✨🏡 **Dream Plots [2023]**: [Dive into your creative space with a immersive, real-time world!](https://www.roblox.com/games/13827214218/Dream-Plots)
 - 💰🏃 **LOOT RUNNERS [2023]**: [A new variation of competition, a puzzle solving race!](https://www.roblox.com/games/12929417892/LOOT-RUNNERS)
-#### 📱 **Mobile Apps:**
-- **???**:
-  - **[IOS]**: [SOON]()
-  - **[ANDROID]**: [SOON]()
+[comment]: <(#### 📱 **Mobile Apps:**)>
+[comment]: <(- **???**:)>
+[comment]: <(  - **[IOS]**: [SOON]())>
+[comment]: <(  - **[ANDROID]**: [SOON]())>
 <p align="center">
 
 
