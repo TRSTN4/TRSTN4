@@ -7,6 +7,7 @@
 [![Website Badge](https://img.shields.io/badge/TRSTN4.com-074d68?style=flat-square&logo=google-chrome&logoColor=white)](https://www.TRSTN4.com/)
 
 ## About Me <img src="https://c.tenor.com/uZFq07-ujK8AAAAi/man-shrugging-joypixels.gif" width="28"/>
+* 📆 I'm 19 years old.
 * 🍃 A nature enthusiast, I find peace and inspiration in the great outdoors.
 * 💡 Fascinated by programming and the process of creating and solving with code.
 * 📚 Dedicated to studying and continuously expanding my knowledge in technology and beyond.
