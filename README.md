@@ -21,22 +21,22 @@
 - ⚡ **Python**: Creating Python libraries and handy tools for everyone to use.
 - 📱 **Swift & Kotlin**: Developing mobile apps for both iOS and Android platforms.
 - 💻 **C/C++**: Working on numerous projects for [Codam Coding College](https://codam.nl), ranging from algorithms to systems programming.
-- 🌐 **Web Development**: Building websites and web applications with modern technologies.
-- 🧗 **Community Projects**: Contributing to various projects for my local climbing gym.
-- 🎮 **Roblox Development**: Making various games in Roblox using Lua, focusing on engaging gameplay and immersive experiences.
+- 🌐 **HTML/CSS/JavaScript,**: Building websites and web applications with modern technologies.
+- 🎮 **Roblox Lua**: Making various games in Roblox using Lua, focusing on engaging gameplay and immersive experiences.
 <p align="center">
 
 
 ## My Projects <img src="https://media.tenor.com/dmYlPVcctp8AAAAi/discord-emoji.gif" width="28"/>
 #### ⚡ **Python:**
-- **🦅 EagleShell**: [EagleShell is a high-quality tool that aims to improve your pentest](https://github.com/TRSTN4/EagleShell)
-- **🌳 br4nch**: [Data Structure Tree Builder for Python](https://github.com/TRSTN4/br4nch)
+- **🦅 EagleShell**: [EagleShell is a high-quality tool that aims to improve your pentest.](https://github.com/TRSTN4/EagleShell)
+- **🌳 br4nch**: [Data Structure Tree Builder for Python.](https://github.com/TRSTN4/br4nch)
 #### 💻 **C/C++:**
 - 📚 **Codam Projects**: [Git repository with 42 The Network projects I made.](https://github.com/TRSTN4/42CodamProjects)
 #### 🎮 **Roblox Games:**
 - 🔦🌲 **FARSIGHT [2024]**: [Complete objectives, solve puzzles and survive through the night.](https://www.roblox.com/games/15025258839/STORY-FARSIGHT)
 - ✨🏡 **Dream Plots [2023]**: [Dive into your creative space with a immersive, real-time world!](https://www.roblox.com/games/13827214218/Dream-Plots)
 - 💰🏃 **LOOT RUNNERS [2023]**: [A new variation of competition, a puzzle solving race!](https://www.roblox.com/games/12929417892/LOOT-RUNNERS)
+- 🧗 **Community Projects**: Contributing to various projects for my local climbing gyms: [Kunststof](https://github.com/TRSTN4/Kunststof) and [Krachtstof](https://github.com/TRSTN4/Krachtstof)
 <p align="center">
 
 
