@@ -36,7 +36,8 @@
 - 🔦🌲 **FARSIGHT [2024]**: [Complete objectives, solve puzzles and survive through the night.](https://www.roblox.com/games/15025258839/STORY-FARSIGHT)
 - ✨🏡 **Dream Plots [2023]**: [Dive into your creative space with a immersive, real-time world!](https://www.roblox.com/games/13827214218/Dream-Plots)
 - 💰🏃 **LOOT RUNNERS [2023]**: [A new variation of competition, a puzzle solving race!](https://www.roblox.com/games/12929417892/LOOT-RUNNERS)
-- 🧗💡 **Community Projects**: _Contributing to various projects for my local climbing gyms_: [Kunststof](https://github.com/TRSTN4/Kunststof) and [Krachtstof](https://github.com/TRSTN4/Krachtstof)
+#### 💡 **Community Projects:**
+- 🧗 **Contributing to various projects for my local climbing gyms:** [Kunststof](https://github.com/TRSTN4/Kunststof) _and_ [Krachtstof](https://github.com/TRSTN4/Krachtstof).
 <p align="center">
 
 
