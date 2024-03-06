@@ -21,7 +21,7 @@
 - ⚡ **Python**: Creating Python libraries and handy tools for everyone to use.
 - 📱 **Swift & Kotlin**: Developing mobile apps for both iOS and Android platforms.
 - 💻 **C/C++**: Working on numerous projects for [Codam Coding College](https://codam.nl), ranging from algorithms to systems programming.
-- 🌐 **HTML/CSS/JavaScript,**: Building websites and web applications with modern technologies.
+- 🌐 **HTML/CSS/JavaScript**: Building websites and web applications with modern technologies.
 - 🎮 **Roblox Lua**: Making various games in Roblox using Lua, focusing on engaging gameplay and immersive experiences.
 <p align="center">
 
@@ -36,7 +36,7 @@
 - 🔦🌲 **FARSIGHT [2024]**: [Complete objectives, solve puzzles and survive through the night.](https://www.roblox.com/games/15025258839/STORY-FARSIGHT)
 - ✨🏡 **Dream Plots [2023]**: [Dive into your creative space with a immersive, real-time world!](https://www.roblox.com/games/13827214218/Dream-Plots)
 - 💰🏃 **LOOT RUNNERS [2023]**: [A new variation of competition, a puzzle solving race!](https://www.roblox.com/games/12929417892/LOOT-RUNNERS)
-- 🧗 **Community Projects**: Contributing to various projects for my local climbing gyms: [Kunststof](https://github.com/TRSTN4/Kunststof) and [Krachtstof](https://github.com/TRSTN4/Krachtstof)
+- 🧗💡 **Community Projects**: _Contributing to various projects for my local climbing gyms_: [Kunststof](https://github.com/TRSTN4/Kunststof) and [Krachtstof](https://github.com/TRSTN4/Krachtstof)
 <p align="center">
 
 
