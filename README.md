@@ -33,6 +33,8 @@
 #### ⚡ **Python:**
 - **🦅 EagleShell**: [EagleShell is a high-quality tool that aims to improve your pentest.](https://github.com/TRSTN4/EagleShell)
 - **🌳 br4nch**: [Data Structure Tree Builder for Python.](https://github.com/TRSTN4/br4nch)
+#### 📱 **Swift & Kotlin:**
+- **🚨 EXODESÉUS**: [An application designed to deliver real-time news updates and offer emergency response features.](https://github.com/TRSTN4/EXODESEUS)
 #### 💻 **C/C++:**
 - 📚 **Codam Projects**: [Git repository with 42 The Network projects I made.](https://github.com/TRSTN4/42CodamProjects)
 #### 🎮 **Roblox Games:**
