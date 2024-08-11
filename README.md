@@ -7,7 +7,7 @@
 [![Website Badge](https://img.shields.io/badge/TRSTN4.com-074d68?style=flat-square&logo=google-chrome&logoColor=white)](https://www.TRSTN4.com/)
 
 ## About Me <img src="https://c.tenor.com/uZFq07-ujK8AAAAi/man-shrugging-joypixels.gif" width="28"/>
-* 📆 I'm 19 years old.
+* 📆 I'm 20 years old.
 * 🧑‍🎓 **Studies:**
   * _🎓 Student at [Codam Coding College](https://codam.nl/)._
   * _🎓 Student at [Open University](https://ou.nl/)._
