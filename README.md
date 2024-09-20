@@ -22,7 +22,7 @@
 
 ## Languages I'm Using <img src="https://media.tenor.com/A-1z4jlGrXgAAAAi/onay2.gif" width="28"/>
 - ⚡ **Python**: Creating Python libraries and handy tools for everyone to use.
-- 📱 **Swift & Kotlin**: Developing mobile apps for both iOS and Android platforms.
+- 📱 **Swift, Kotlin & Flutter**: Developing mobile apps for both iOS and Android platforms.
 - 💻 **C/C++**: Working on numerous projects for [Codam Coding College](https://codam.nl), ranging from algorithms to systems programming.
 - 🌐 **HTML/CSS/JavaScript**: Building websites and web applications with modern technologies.
 - 🎮 **Roblox Lua**: Making various games in Roblox using Lua, focusing on engaging gameplay and immersive experiences.
