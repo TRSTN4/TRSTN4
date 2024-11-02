@@ -30,13 +30,6 @@
 
 
 ## My Projects <img src="https://media.tenor.com/dmYlPVcctp8AAAAi/discord-emoji.gif" width="28"/>
-#### ⚡ **Python:**
-- **🦅 EagleShell**: [EagleShell is a high-quality tool that aims to improve your pentest.](https://github.com/TRSTN4/EagleShell)
-- **🌳 br4nch**: [Data Structure Tree Builder for Python.](https://github.com/TRSTN4/br4nch)
-#### 📱 **Swift & Kotlin:**
-- **🚨 EXODESÉUS**: [An application designed to deliver real-time news updates and offer emergency response features.](https://github.com/TRSTN4/EXODESEUS)
-#### 💻 **C/C++:**
-- 📚 **Codam Projects**: [Git repository with 42 The Network projects I made.](https://github.com/TRSTN4/42CodamProjects)
 #### 🎮 **Roblox Games:**
 - 🔦🌲 **FARSIGHT [2024]**: [Complete objectives, solve puzzles and survive through the night.](https://www.roblox.com/games/15025258839/STORY-FARSIGHT)
   * _⭐ Game Preview/Portfolio: [https://github.com/TRSTN4/FARSIGHT](https://github.com/TRSTN4/FARSIGHT)_
@@ -44,6 +37,13 @@
   * _⭐ Game Preview/Portfolio: [https://github.com/TRSTN4/Dream_Plots](https://github.com/TRSTN4/Dream_Plots)_
 - 💰🏃 **LOOT RUNNERS [2023]**: [A new variation of competition, a puzzle solving race!](https://www.roblox.com/games/12929417892/LOOT-RUNNERS)
   * _⭐ Game Preview/Portfolio: [https://github.com/TRSTN4/Loot_Runners](https://github.com/TRSTN4/Loot_Runners)_
+#### 📱 **Swift & Kotlin:**
+- **🚨 EXODESÉUS**: [An application designed to deliver real-time news updates and offer emergency response features.](https://github.com/TRSTN4/EXODESEUS)
+#### 💻 **C/C++:**
+- 📚 **Codam Projects**: [Git repository with 42 The Network projects I made.](https://github.com/TRSTN4/42CodamProjects)
+#### ⚡ **Python:**
+- **🌳 br4nch**: [Data Structure Tree Builder for Python.](https://github.com/TRSTN4/br4nch)
+- **🦅 EagleShell**: [EagleShell is a high-quality tool that aims to improve your pentest.](https://github.com/TRSTN4/EagleShell)
 #### 💡 **Community Projects:**
 - 🧗 **Contributing to various projects for my local climbing gyms:** [Kunststof](https://github.com/TRSTN4/Kunststof) _and_ [Krachtstof](https://github.com/TRSTN4/Krachtstof).
 <p align="center">
