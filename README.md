@@ -3,9 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&color=%93f56f31&size=25&height=40&lines=Nice+to+meet+you!;I'm+a+Software+Engineer.;Student+@+Codam+Coding+College;Student+@+Open+University;)
 ](https://git.io/typing-svg)
 
-[![X/Twitter Badge](https://img.shields.io/badge/-@TRSTN48-010a0e?style=flat-square&logo=X&logoColor=white)](https://twitter.com/TRSTN48)
-[![Website Badge](https://img.shields.io/badge/TRSTN4.com-074d68?style=flat-square&logo=google-chrome&logoColor=white)](https://www.TRSTN4.com/)
-
 ## About Me <img src="https://c.tenor.com/uZFq07-ujK8AAAAi/man-shrugging-joypixels.gif" width="28"/>
 * 📆 I'm 20 years old.
 * 🧑‍🎓 **Studies:**
