@@ -6,7 +6,7 @@
 ## About Me <img src="https://c.tenor.com/uZFq07-ujK8AAAAi/man-shrugging-joypixels.gif" width="28"/>
 * 📆 I'm 20 years old.
 * 🧑‍🎓 **Studies:**
-  * _🎓 Student at [Codam Coding College](https://codam.nl/)._
+  * _🎓 Graduate at [Codam Coding College](https://codam.nl/)._
   * _🎓 Student at [Open University](https://ou.nl/)._
 * 🍃 A nature enthusiast, I find peace and inspiration in the great outdoors.
 * 💡 Fascinated by programming and the process of creating and solving with code.
