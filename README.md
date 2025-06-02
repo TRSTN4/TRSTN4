@@ -8,12 +8,12 @@
 * 🧑‍🎓 **Studies:**
   * _🎓 Graduate at [Codam Coding College](https://codam.nl/)._
   * _🎓 Student at [LOI](https://loi.nl/)._
-* 🍃 A nature enthusiast, I find peace and inspiration in the great outdoors.
-* 💡 Fascinated by programming and the process of creating and solving with code.
-* 📚 Dedicated to studying and continuously expanding my knowledge in technology and beyond.
-* 🛠️ Enjoy the joy of diving into a variety of different projects, from developing software and creating games to contributing to the community.
-* 🌱 Always eager to learn and grow, embracing new challenges and opportunities to improve.
-* 🧗‍♂️ Loves bouldering, both indoors and outdoors.
+* 🍃 I love being out in nature — it helps me relax and sparks new ideas.
+* 💡 Programming really clicks with me — I enjoy building things and figuring out how to make them work.
+* 📚 I'm always learning, especially when it comes to tech, but I like exploring other areas too.
+* 🛠️ I like working on all kinds of projects — whether it's making a game, coding something useful, or helping out in a community.
+* 🌱 I like pushing myself to try new things and keep improving along the way.
+* 🧗‍♂️ Bouldering is one of my favorite ways to stay active, whether indoors or out.
 <p align="center">
 
 
@@ -22,7 +22,7 @@
 - 📱 **Swift, Kotlin & Flutter**: Developing mobile apps for both iOS and Android platforms.
 - 💻 **C/C++**: Working on numerous projects for [Codam Coding College](https://codam.nl), ranging from algorithms to systems programming.
 - 🌐 **HTML/CSS/JavaScript**: Building websites and web applications with modern technologies.
-- 🎮 **Roblox Lua**: Making various games in Roblox using Lua, focusing on engaging gameplay and immersive experiences.
+- 🎮 **Luau**: Making various games in Roblox using Luau, focusing on engaging gameplay and immersive experiences.
 <p align="center">
 
 
