@@ -6,8 +6,8 @@
 ## About Me <img src="https://c.tenor.com/uZFq07-ujK8AAAAi/man-shrugging-joypixels.gif" width="28"/>
 * 📆 I'm 20 years old.
 * 🧑‍🎓 **Studies:**
-  * _🎓 Graduate at [Codam Coding College](https://codam.nl/)._
-  * _🎓 Bachelor student in Computer Science at [LOI](https://loi.nl/)._
+  * _🎓 Graduate of [Codam Coding College](https://codam.nl/) (part of the 42 Network, Software Engineering)._
+  * _🎓  Studying Computer Science (BSc) at [LOI](https://loi.nl/)._
 * 🍃 I love being out in nature — it helps me relax and sparks new ideas.
 * 💡 Programming really clicks with me — I enjoy building things and figuring out how to make them work.
 * 📚 I'm always learning, especially when it comes to tech, but I like exploring other areas too.
