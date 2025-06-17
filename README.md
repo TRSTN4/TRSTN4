@@ -37,14 +37,15 @@
 - 💰🏃 **LOOT RUNNERS [2023]**: [A new variation of competition, a puzzle solving race!](https://www.roblox.com/games/12929417892/LOOT-RUNNERS)
   * _⭐ Game Preview/Portfolio: [https://github.com/TRSTN4/Loot_Runners](https://github.com/TRSTN4/Loot_Runners)_
 #### 📱 **Swift & Kotlin:**
-- **🚨 EXODESÉUS**: [An application designed to deliver real-time news updates and offer emergency response features.](https://github.com/TRSTN4/EXODESEUS)
+- **🚨 EXODESÉUS v2 (Essential) [2024]**: [A next-gen app for real-time news and instant emergency response—keeping you informed and safe, wherever you are.](https://github.com/TRSTN4/EXODESEUS)
+- **🚨 EXODESÉUS [2024]**: [An application designed to deliver real-time news updates and offer emergency response features.](https://github.com/TRSTN4/EXODESEUS)
 #### 💻 **C/C++:**
-- 📚 **Codam Projects**: [Git repository with 42 The Network projects I made.](https://github.com/TRSTN4/42CodamProjects)
+- 📚 **Codam Projects [2022-2024]**: [Git repository with 42 The Network projects I made.](https://github.com/TRSTN4/42CodamProjects)
 #### ⚡ **Python:**
-- **🌳 br4nch**: [Data Structure Tree Builder for Python.](https://github.com/TRSTN4/br4nch)
-- **🦅 EagleShell**: [EagleShell is a high-quality tool that aims to improve your pentest.](https://github.com/TRSTN4/EagleShell)
+- **🌳 br4nch [2022]**: [Data Structure Tree Builder for Python.](https://github.com/TRSTN4/br4nch)
+- **🦅 EagleShell [2020]**: [EagleShell is a high-quality tool that aims to improve your pentest.](https://github.com/TRSTN4/EagleShell)
 #### 💡 **Community Projects:**
-- 🧗 **Contributing to various projects for my local climbing gyms:** [Kunststof](https://github.com/TRSTN4/Kunststof) _and_ [Krachtstof](https://github.com/TRSTN4/Krachtstof).
+- 🧗 **Contributing to various projects for my local climbing gyms:** [Kunststof](https://github.com/TRSTN4/Kunststof) **[2022]** _and_ [Krachtstof](https://github.com/TRSTN4/Krachtstof) **[2023]**.
 <p align="center">
 
 
