@@ -1,13 +1,17 @@
 
 # Hi, I'm TRSTN4! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&color=%93f56f31&size=25&height=40&lines=Nice+to+meet+you!;I'm+a+Software+Engineer.;Graduate+@+Codam+Coding+College;Student+@+LOI;)
-](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&color=%93f56f31&size=25&height=40&lines=Nice+to+meet+you!;I'm+a+Software+Engineer.;Graduate+@+Codam+Coding+College;Student+@+LOI;)](https://github.com/TRSTN4)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tristan-van-beek)
+[![LinkedIn](https://img.shields.io/badge/%20Codam-000000?style=for-the-badge&logo=42&logoColor=white)](https://www.codam.nl)
 
 ## About Me <img src="https://c.tenor.com/uZFq07-ujK8AAAAi/man-shrugging-joypixels.gif" width="28"/>
 * 📆 I'm 20 years old.
-* 🧑‍🎓 **Studies:**
+* 🧑‍🎓 **Education:**
   * _🎓 Graduate of [Codam Coding College](https://codam.nl/) (part of the 42 Network, Software Engineering)._
-  * _🎓  Studying Computer Science (BSc) at [LOI](https://loi.nl/)._
+  * _🎓 Studying Computer Science (BSc) at [LOI](https://loi.nl/)._
+* 🪪 **Licenses & Certifications:**
+  * _[EXIN AMBI e-CF Infrastructure Foundation](https://media.licdn.com/dms/document/media/v2/D4E2DAQE-PzJR3r3QRw/profile-treasury-document-pdf-analyzed/B4EZeN_0fmHIAo-/0/1750434009799?e=1751500800&v=beta&t=Mf76CvQ_WJv7rrslgu6ipO6fBWCM6_CxQvxDow_DDcI)_
 * 🍃 I love being out in nature — it helps me relax and sparks new ideas.
 * 💡 Programming really clicks with me — I enjoy building things and figuring out how to make them work.
 * 📚 I'm always learning, especially when it comes to tech, but I like exploring other areas too.
@@ -17,12 +21,13 @@
 <p align="center">
 
 
-## Languages I'm Using <img src="https://media.tenor.com/A-1z4jlGrXgAAAAi/onay2.gif" width="28"/>
+## Languages & Tools I'm Using <img src="https://media.tenor.com/A-1z4jlGrXgAAAAi/onay2.gif" width="28"/>
 - ⚡ **Python**: Creating Python libraries and handy tools for everyone to use.
 - 📱 **Swift, Kotlin & Flutter**: Developing mobile apps for both iOS and Android platforms.
 - 💻 **C/C++**: Working on numerous projects for [Codam Coding College](https://codam.nl), ranging from algorithms to systems programming.
 - 🌐 **HTML/CSS/JavaScript**: Building websites and web applications with modern technologies.
 - 🎮 **Luau**: Making various games in Roblox using Luau, focusing on engaging gameplay and immersive experiences.
+- ☁️ **Firebase**: Integrating real-time databases, authentication, cloud storage, and analytics into mobile, web apps and games.
 <p align="center">
 
 
