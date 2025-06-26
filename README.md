@@ -34,23 +34,30 @@
 ## My Projects <img src="https://media.tenor.com/dmYlPVcctp8AAAAi/discord-emoji.gif" width="28"/>
 #### 🎮 **Roblox Games:**
 - 🏝️🧭 **_Codenamed Grasshopper_ [2025]**: Full reveal coming soon.
-  * _⭐ Game Preview/Portfolio: Soon..._
+  * _➡️ Game Preview/Portfolio: Soon..._
 - 🔦🌲 **FARSIGHT [2024]**: [Complete objectives, solve puzzles and survive through the night.](https://www.roblox.com/games/15025258839/STORY-FARSIGHT)
-  * _⭐ Game Preview/Portfolio: [https://github.com/TRSTN4/FARSIGHT](https://github.com/TRSTN4/FARSIGHT)_
+  * _➡️ Game Preview/Portfolio: [https://github.com/TRSTN4/FARSIGHT](https://github.com/TRSTN4/FARSIGHT)_
 - ✨🏡 **Dream Plots [2023]**: [Dive into your creative space with a immersive, real-time world!](https://www.roblox.com/games/13827214218/Dream-Plots)
-  * _⭐ Game Preview/Portfolio: [https://github.com/TRSTN4/Dream_Plots](https://github.com/TRSTN4/Dream_Plots)_
+  * _➡️ Game Preview/Portfolio: [https://github.com/TRSTN4/Dream_Plots](https://github.com/TRSTN4/Dream_Plots)_
 - 💰🏃 **LOOT RUNNERS [2023]**: [A new variation of competition, a puzzle solving race!](https://www.roblox.com/games/12929417892/LOOT-RUNNERS)
-  * _⭐ Game Preview/Portfolio: [https://github.com/TRSTN4/Loot_Runners](https://github.com/TRSTN4/Loot_Runners)_
+  * _➡️ Game Preview/Portfolio: [https://github.com/TRSTN4/Loot_Runners](https://github.com/TRSTN4/Loot_Runners)_
 #### 📱 **Swift & Kotlin:**
-- **🚨 EXODESÉUS v2 (Essential) [2024]**: [A next-gen app for real-time news and instant emergency response—keeping you informed and safe, wherever you are.](https://github.com/TRSTN4/EXODESEUS)
+- **🚨 EXODESÉUS v2 (Essential) [2024]**: [A next-gen app for real-time news and instant emergency response—keeping you informed and safe, wherever you are.]()
 - **🚨 EXODESÉUS [2024]**: [An application designed to deliver real-time news updates and offer emergency response features.](https://github.com/TRSTN4/EXODESEUS)
 #### 💻 **C/C++:**
 - 📚 **Codam Projects [2022-2024]**: [Git repository with 42 The Network projects I made.](https://github.com/TRSTN4/42CodamProjects)
 #### ⚡ **Python:**
 - **🌳 br4nch [2022]**: [Data Structure Tree Builder for Python.](https://github.com/TRSTN4/br4nch)
 - **🦅 EagleShell [2020]**: [EagleShell is a high-quality tool that aims to improve your pentest.](https://github.com/TRSTN4/EagleShell)
+- **🐍 Minecraft Python [2018]**: [Old Minecraft scripts I wrote in 2018 when I was a kid.](https://github.com/TRSTN4/Minecraft_Python_2018)
 #### 💡 **Community Projects:**
 - 🧗 **Contributing to various projects for my local climbing gyms:** [Kunststof](https://github.com/TRSTN4/Kunststof) **[2022]** _and_ [Krachtstof](https://github.com/TRSTN4/Krachtstof) **[2023]**.
+#### ☕ **Java:**
+- **🖥️ Minecraft Server [2016]**: [A custom Minecraft server I made when I was a kid.](https://github.com/TRSTN4/YouthDigital_Server_Design_2016)
+- **🪄 Minecraft Mods [2014/2016]**: [A Minecraft mods I made when I was a kid.](https://github.com/TRSTN4/YouthDigital_Mod_Design_2014-2016)
+#### 🐱 **Scratch (as a kid I made these projects):**
+- **🛸 KROE3 [2014]**: [A space shooting game with drawings I made when I was a kid.](https://scratch.mit.edu/projects/38849438/)
+- **👾 Scratch Projects [2013-2015]**: [Multiple random Scratch projects I made when I was a kid.](https://github.com/TRSTN4/Scratch_Projects_2013-2015)
 <p align="center">
 
 
