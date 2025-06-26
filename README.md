@@ -69,7 +69,7 @@
 - **🖥️ Minecraft Server [2016]**:
   * _[A custom Minecraft server I made when I was a kid.](https://github.com/TRSTN4/YouthDigital_Server_Design_2016)_
 - **🪄 Minecraft Mods [2014/2016]**:
-  * _[A Minecraft mods I made when I was a kid.](https://github.com/TRSTN4/YouthDigital_Mod_Design_2014-2016)_
+  * _[Minecraft mods I made when I was a kid.](https://github.com/TRSTN4/YouthDigital_Mod_Design_2014-2016)_
 #### 🐱 **Scratch (as a kid I made these projects):**
 - **🛸 KROE3 [2014]**:
   * _[A space shooting game with drawings I made when I was a kid.](https://scratch.mit.edu/projects/38849438/)_
