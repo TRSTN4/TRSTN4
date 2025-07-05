@@ -45,7 +45,7 @@
 - 💰🏃 **LOOT RUNNERS [2023]**:
   * _➡️ Game Link: [A new variation of competition, a puzzle solving race!](https://www.roblox.com/games/12929417892/LOOT-RUNNERS)_
   * _➡️ Game Preview: [https://github.com/TRSTN4/Loot_Runners](https://github.com/TRSTN4/Loot_Runners)_
-#### 📱 **Swift & Kotlin:**
+#### 📱 **Swift, Kotlin & Flutter:**
 - **🚨 EXODESÉUS v2 (Essential) [2024]**:
   * _[A next-gen app for real-time news and instant emergency response—keeping you informed and safe, wherever you are.]()_
 - **🚨 EXODESÉUS [2024]**:
