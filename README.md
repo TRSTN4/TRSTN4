@@ -61,10 +61,10 @@
 - **🐍 Minecraft Python [2018]**:
   * _[Old Minecraft scripts I wrote in 2018 when I was a kid.](https://github.com/TRSTN4/Minecraft_Python_2018)_
 #### 💡 **HTML/CSS/JavaScript:**
-- 🧗 **Doktor Beta [2022] - Developed for bouldering gym Kunststof:**
-  * _[Created for a special annual event with a group of young climbers who unravel the mystery of “Doktor Beta” through challenges and hidden clues.](https://github.com/TRSTN4/Kunststof)_
 - 🧗 **Planet Boulder [2023] - Developed for bouldering gym Krachtstof:**
   * _[Built for a special event where kids work together to save the world by completing climbing missions and stopping a global threat.](https://github.com/TRSTN4/Krachtstof)_
+- 🧗 **Doktor Beta [2022] - Developed for bouldering gym Kunststof:**
+  * _[Created for a special annual event with a group of young climbers who unravel the mystery of “Doktor Beta” through challenges and hidden clues.](https://github.com/TRSTN4/Kunststof)_
 #### ☕ **Java:**
 - **🖥️ Minecraft Server [2016]**:
   * _[A custom Minecraft server I made when I was a kid.](https://github.com/TRSTN4/YouthDigital_Server_Design_2016)_
