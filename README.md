@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/%20Codam-000000?style=for-the-badge&logo=42&logoColor=white)](https://www.codam.nl)
 
 ## About Me <img src="https://c.tenor.com/uZFq07-ujK8AAAAi/man-shrugging-joypixels.gif" width="28"/>
-* 📆 I'm 20 years old.
+* 📆 I'm 21 years old.
 * 🧑‍🎓 **Education:**
   * _🎓 Graduate of [Codam Coding College](https://codam.nl/) (part of the 42 Network, Software Engineering)._
   * _🎓 Studying Computer Science (BSc) at [LOI](https://loi.nl/)._
