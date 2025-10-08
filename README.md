@@ -36,7 +36,7 @@
 - 🏝️🧭 **_Codenamed Grasshopper_ [2025]**:
   * _➡️ Game Link: Full reveal coming soon..._
   * _➡️ Game Preview: Full reveal coming soon..._
-- 🔦🌲 **FARSIGHT [2024]**:
+- 🔦🌲 **FARSIGHT [2023]**:
   * _➡️ Game Link: [Complete objectives, solve puzzles and survive through the night.](https://www.roblox.com/games/15025258839/STORY-FARSIGHT)_
   * _➡️ Game Preview: [https://github.com/TRSTN4/FARSIGHT](https://github.com/TRSTN4/FARSIGHT)_
 - ✨🏡 **Dream Plots [2023]**:
