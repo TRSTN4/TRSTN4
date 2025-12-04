@@ -33,9 +33,9 @@
 
 ## My Projects <img src="https://media.tenor.com/dmYlPVcctp8AAAAi/discord-emoji.gif" width="28"/>
 #### 🎮 **Roblox Games:**
-- 🏝️🧭 **_Codenamed Grasshopper_ [2025]**:
-  * _➡️ Game Link: Full reveal coming soon..._
-  * _➡️ Game Preview: Full reveal coming soon..._
+- 🏝️🎈 **_Loon Life_ [2025]**:
+  * _➡️ Game Link: **December 2025**_
+  * _➡️ Game Preview: [https://trisentostudios.com/trailer](https://trisentostudios.com/trailer)_
 - 🔦🌲 **FARSIGHT [2023]**:
   * _➡️ Game Link: [Complete objectives, solve puzzles and survive through the night.](https://www.roblox.com/games/15025258839/STORY-FARSIGHT)_
   * _➡️ Game Preview: [https://github.com/TRSTN4/FARSIGHT](https://github.com/TRSTN4/FARSIGHT)_
