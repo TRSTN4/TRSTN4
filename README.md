@@ -34,7 +34,7 @@
 ## My Projects <img src="https://media.tenor.com/dmYlPVcctp8AAAAi/discord-emoji.gif" width="28"/>
 #### 🎮 **Roblox Games:**
 - 🏝️🎈 **_Loon Life_ [2025]**:
-  * _➡️ Game Link:[Explore unique islands, gather resources, and turn a wild island into a cozy home.](https://www.roblox.com/games/115592782671730/Loon-Life)_
+  * _➡️ Game Link: [Explore unique islands, gather resources, and turn a wild island into a cozy home.](https://www.roblox.com/games/115592782671730/Loon-Life)_
   * _➡️ Game Preview: [https://trisentostudios.com/trailer](https://trisentostudios.com/trailer)_
 - 🔦🌲 **FARSIGHT [2023]**:
   * _➡️ Game Link: [Complete objectives, solve puzzles and survive through the night.](https://www.roblox.com/games/15025258839/STORY-FARSIGHT)_
