@@ -47,7 +47,7 @@
   * _➡️ Game Preview: [https://github.com/TRSTN4/Loot_Runners](https://github.com/TRSTN4/Loot_Runners)_
 #### 📱 **Swift, Kotlin & Flutter:**
 - **🚨 EXODESÉUS v2 (Essential) [2024]**:
-  * _[A next-gen app for real-time news and instant emergency response—keeping you informed and safe, wherever you are.]()_
+  * _[A next-gen app for real-time news and instant emergency response—keeping you informed and safe, wherever you are.](https://github.com/TRSTN4/EXODESEUS-Essential)_
 - **🚨 EXODESÉUS [2024]**:
   * _[An application designed to deliver real-time news updates and offer emergency response features.](https://github.com/TRSTN4/EXODESEUS)_
 #### 💻 **C/C++:**
