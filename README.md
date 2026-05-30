@@ -11,7 +11,7 @@
   * _🎓 Graduate of [Codam Coding College](https://codam.nl/) (part of the 42 Network, Software Engineering)._
   * _🎓 Studying Computer Science (BSc) at [LOI](https://loi.nl/)._
 * 🪪 **Licenses & Certifications:**
-  * _[EXIN AMBI e-CF Infrastructure Foundation](https://media.licdn.com/dms/document/media/v2/D4E2DAQE-PzJR3r3QRw/profile-treasury-document-pdf-analyzed/B4EZeN_0fmHIAo-/0/1750434009799?e=1751500800&v=beta&t=Mf76CvQ_WJv7rrslgu6ipO6fBWCM6_CxQvxDow_DDcI)_
+  * _[EXIN AMBI e-CF Infrastructure Foundation](https://www.linkedin.com/in/tristan-van-beek/overlay/Certifications/237273991/treasury/?profileId=ACoAAFRwFjkBPtyWZGguqVH9FTQPdzM61-D_6Ks)_
 * 🍃 I love being out in nature — it helps me relax and sparks new ideas.
 * 💡 Programming really clicks with me — I enjoy building things and figuring out how to make them work.
 * 📚 I'm always learning, especially when it comes to tech, but I like exploring other areas too.
